@@ -1,0 +1,12 @@
+омлет: 
+- ingredient_name: "молоко"
+  quantity: 100
+  measure: "мл"
+
+- ingredient_name: "сыр"
+  quantity: 50
+  measure: "г"
+
+- ingredient_name: "€йца"
+  quantity: 2
+  measure: "шт"	
